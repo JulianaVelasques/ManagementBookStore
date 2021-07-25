@@ -25,8 +25,9 @@
   <a href="#-how-to-contribute">How to Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
-
-![Demo](demo.gif)
+  
+## Demonstration
+![Demo](Demo.gif)
 
 ## 💻 Live Preview
 
