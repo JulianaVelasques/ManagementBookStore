@@ -1,4 +1,4 @@
-<h1 align="center"> ManagementBookStore <h1>
+<h1 align="center"> Management BookStore <h1>
 
 <h4 align="center">
   🚀 An APP for product inventory.
