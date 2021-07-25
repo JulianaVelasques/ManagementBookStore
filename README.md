@@ -1,5 +1,5 @@
-# ManagementBookStore
-=======
+<h1 align="center"> ManagementBookStore <h1>
+
 <h4 align="center">
   🚀 An APP for product inventory.
 </h4>
@@ -30,7 +30,7 @@
 
 ## 💻 Live Preview
 
-You can access this application HERE. 
+You can access this application [HERE](https://management-book-store.vercel.app/). 
 
 ## :page_with_curl: About
 
