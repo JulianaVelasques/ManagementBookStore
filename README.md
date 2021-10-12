@@ -35,7 +35,7 @@ You can access this application [HERE](https://management-book-store.vercel.app/
 
 ## :page_with_curl: About
 
-The Book Store Management app was created to be an inventory of the store's products. This an e-commerce system for product inventory. Data entered by users is stored in Local Storage.
+The Book Store Management app was created to be an inventory of the store's products. This an e-commerce system for product inventory. Data entered by users are stored in Local Storage.
 
 
 
